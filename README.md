@@ -1,14 +1,13 @@
 ### Hello!
 
 ### My name is Kristen Bair, and I am a Software Engineer with a focus on Front-End Development. Current student at [Turing School of Software & Design](https://frontend.turing.io/)
-
-> I am looking to find a team/company that values communication, collaboration, and inclusivity and diversity above all else. I am hoping to find a team on which I am valued for the perspectives I bring to the table, and given the opportunity to grow. 
+I am looking to find a team/company that values communication, collaboration, and inclusivity and diversity above all else. I am hoping to find a team on which I am valued for the perspectives I bring to the table, and given the opportunity to grow. 
 
 [![KB's github stats](https://github-readme-stats.vercel.app/api?username=kristenmb&theme=blue-green)](https://github.com/kristenmb/github-readme-stats)
 
 
 #### Technologies
-<p style="text-align: center;">
+<p style="text-align:center;">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,12 +41,16 @@
 * Leadership
 
 ##### Previous educational background:
-* B.A. in Organismal Biology from Scripps College, Claremont, CA
+* 📚 B.A. in Organismal Biology from Scripps College, Claremont, CA
 
 ##### My life outside of coding:
-> I am a Colorado Native with a huge passion for finding adventures, both close to home and abroad. I adore good food and drinks, and love exploring new bars and restaurants in whatever city I am in. I love taking part in and creating shared experiences - live music, interactive art and theater exhibits, any opportunity to meet new people or hear new stories. 
+> 🗺 Travel 
+> 🍽 Good food and drinks
+> 🎭 Live music, interactive art and theater
+> 👋 Any opportunity to meet new people and hear new stories 
 
 ##### My info:
+* 📍 Denver, CO
 * she/her
 * <kristenmbair@gmail.com>
 * [LinkedIn](linkedin.com/in/kristenmbair)
