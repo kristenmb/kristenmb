@@ -44,10 +44,10 @@ I am looking to find a team/company that values communication, collaboration, an
 * 📚 B.A. in Organismal Biology from Scripps College, Claremont, CA
 
 ##### My life outside of coding:
-> 🗺 Travel 
-> 🍽 Good food and drinks
-> 🎭 Live music, interactive art and theater
-> 👋 Any opportunity to meet new people and hear new stories 
+* 🗺 Travel 
+* 🍽 Good food and drinks
+* 🎭 Live music, interactive art and theater
+* 👋 Any opportunity to meet new people and hear new stories 
 
 ##### My info:
 * 📍 Denver, CO
