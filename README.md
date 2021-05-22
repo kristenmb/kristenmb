@@ -1,7 +1,6 @@
 ### Hello!
 
 ### My name is Kristen Bair, and I am a Software Engineer with a focus on Front-End Development. 
-I am looking to find a team/company that values communication, collaboration, and inclusivity and diversity above all else. I am hoping to find a team on which I am valued for the perspectives I bring to the table, and given the opportunity to grow. 
 
 [![KB's github stats](https://github-readme-stats.vercel.app/api?username=kristenmb&theme=blue-green)](https://github.com/kristenmb/github-readme-stats)
 
@@ -53,5 +52,4 @@ I am looking to find a team/company that values communication, collaboration, an
 ##### My info:
 * 📍 Denver, CO
 * she/her
-* <kristenmbair@gmail.com>
 * [LinkedIn](linkedin.com/in/kristenmbair)
