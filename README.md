@@ -2,8 +2,6 @@
 
 ### My name is Kristen Bair, and I am a Software Engineer with a focus on Front-End Development. 
 
-[![KB's github stats](https://github-readme-stats.vercel.app/api?username=kristenmb&theme=blue-green)](https://github.com/kristenmb/github-readme-stats)
-
 
 #### Technologies
 <p style="text-align:center;">
