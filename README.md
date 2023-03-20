@@ -1,7 +1,22 @@
 ### Hello!
 
-### My name is Kristen Bair, and I am a Software Engineer with a focus on Front-End Development. 
+### My name is Kristen Bair, and I am a Software Engineer with a focus on Front-End Development. I thrive in challenging, fast-paced environments, and love learning new technologies and processes. I strive to push the boundaries of my abilities, and aim to raise the value of any team I am a part of. I question how things work and why, and consitently look for ways to improve upon current systems and code.
 
+
+##### Previous educational background:
+* 💻 Frontend Certificate from [Turing School of Software & Design](https://frontend.turing.io/)
+* 📚 B.A. in Organismal Biology from Scripps College, Claremont, CA
+
+##### My life outside of coding:
+* 🗺 Travel 
+* 🍽 Good food and drinks
+* 🎭 Live music, interactive art and theater
+* 👋 Any opportunity to meet new people and hear new stories 
+
+##### My info:
+* 📍 Denver, CO
+* she/her
+* [LinkedIn](linkedin.com/in/kristenmbair)
 
 #### Technologies
 <p style="text-align:center;">
@@ -29,6 +44,7 @@
 <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
+
 #### Other Skills
 * Test Driven Development
 * RESTful APIs
@@ -36,18 +52,4 @@
 * Accessibility/ARIA
 * Responsive Design
 * Leadership
-
-##### Previous educational background:
-* 💻 Frontend Certificate from [Turing School of Software & Design](https://frontend.turing.io/)
-* 📚 B.A. in Organismal Biology from Scripps College, Claremont, CA
-
-##### My life outside of coding:
-* 🗺 Travel 
-* 🍽 Good food and drinks
-* 🎭 Live music, interactive art and theater
-* 👋 Any opportunity to meet new people and hear new stories 
-
-##### My info:
-* 📍 Denver, CO
-* she/her
-* [LinkedIn](linkedin.com/in/kristenmbair)
+* Mentorship
